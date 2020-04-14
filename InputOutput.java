@@ -11,7 +11,7 @@ public class InputOutput{
  nama = scanner.nextLine();
  System.out.println("Hai, "+nama);
 
- System.out.print("Masukkan Jumlah SKS yang sudah ditempuh: ")
+ System.out.print("Masukkan Jumlah SKS yang sudah ditempuh: ");
  jumlahSks = scanner.nextInt();
 
  System.out.print("Masukkan IPK Sementara :");
